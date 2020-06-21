@@ -13,7 +13,7 @@ export default class Header extends Component {
             alt="nulogo"
           />{" "}
         </span>
-        mber Converter
+        mber Translater
       </header>
     );
   }
